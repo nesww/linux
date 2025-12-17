@@ -1,1 +1,0 @@
-savedcmd_/home/sato/linux/modules/device_driver/devdriver.mod := printf '%s\n'   devdriver.o | awk '!x[$$0]++ { print("/home/sato/linux/modules/device_driver/"$$0) }' > /home/sato/linux/modules/device_driver/devdriver.mod
