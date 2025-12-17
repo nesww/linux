@@ -1,1 +1,0 @@
-savedcmd_/home/sato/linux/modules/device_driver/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/sato/linux/modules/device_driver/Module.symvers -n -T /home/sato/linux/modules/device_driver/modules.order -i Module.symvers -e 
